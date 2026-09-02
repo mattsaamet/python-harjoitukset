@@ -1,2 +1,2 @@
 nimi = input("Mikä sinun nimesi on? ")
-print("Tervehdys " + nimi)
+print("Tervehdys, " + nimi)
